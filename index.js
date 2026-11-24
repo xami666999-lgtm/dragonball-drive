@@ -10,6 +10,7 @@ const manifest = {
   id: 'com.dragonball.drive',
   version: '1.0.0',
   name: 'Dragon Ball Drive',
+  logo: 'https://raw.githubusercontent.com/xami666999-lgtm/dragonball-drive/main/covers/dragonball-kai.jpg',
   description: DESC,
   resources: ['catalog', 'meta', 'stream'],
   types: ['series'],
